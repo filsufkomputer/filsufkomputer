@@ -58,8 +58,9 @@
 
 ###
 
-###
-
 <br clear="both">
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/filsufkomputer/filsufkomputer/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
