@@ -10,7 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Philosoper since 2022 <br>📚 I'm currently learning Machine Learning and Artificial Inteligence <br>🎯 Goals: Develop an AI Model <br>🎲 Fun fact: I love philosopy </p>
+<p data-importer="text" align="left">✨ ML and AI anthusiast <br>📚 I'm currently learning Machine Learning and Artificial Inteligence <br>🎯 Goals: Develop an AI Model <br>🎲 Fun fact: I love philosopy </p>
 
 ###
 
